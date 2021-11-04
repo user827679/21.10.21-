@@ -1,0 +1,185 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.container{
+  align-items: center;
+  display: flex;
+  background-color: #C4C4C4;
+  height: 100%;
+  width: 120px;
+  position: fixed;
+  left: 0;
+  flex-direction: column;
+
+ justify-content: space-around;
+ 
+ }
+
+.elips{
+width: 66px;
+height: 60px;
+left: 25px;
+top: 15px;
+
+  background: #000000;
+
+}
+
+.elips p{
+  color: azure;
+  margin: 20px 20px 20px 13px;
+  margin: 20px 20px 20px 13px;
+}
+
+.link{
+  width: 89px;
+height: 40px;
+display: flex;
+align-items: center;
+  justify-content: space-around;
+  background-color: black;
+
+}
+
+.link p{
+  color: white;
+}
+
+.foto1 img{
+ width: 650px;
+height: 349px;
+}
+
+.block1{
+  width: 80%;
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+.mama{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.text1 {
+position: fixed;
+width: 177px;
+height: 21px;
+left: 710px;
+top: 285px;
+text-align: right;
+color: #FFFF00;
+}
+
+.text1 p{
+	font-size: 20px;
+	width: 122px;
+height: 21px;
+	
+}
+
+.textps {
+ width: 100%;
+  height: 96px;
+
+  display: flex;
+  align-items: center; 
+justify-content: center;
+}
+
+.block2{
+  width: 18%;
+  background-color: blue;
+}
+
+.mama1{
+	width: 266px;
+height: 322px;
+background-color: black;
+position: relative;
+}
+
+
+
+.kart {
+	position: absolute;
+
+width: 266px;
+height: 180px;
+
+
+
+background: #C4C4C4;
+border-radius: 3px 3px 0px 0px;
+}
+
+.prover{
+	flex-wrap: wrap;
+	display: flex;
+	justify-content: space-around;
+}
+
+.block3{
+	position: absolute;
+width: 1501px;
+height: 453px;
+left: 246px;
+top: 880px;
+flex-direction: column;
+background: #C4C4C4;
+}
+
+.contblack{
+	 width: 100%;
+  height: 120px;
+ display: flex;
+ justify-content: space-around;
+  align-items: center;
+}
+
+.premblack{
+
+justify-content: space-around;
+width: 193px;
+height: 79px;
+left: 278px;
+top: 951px;
+
+background: #000000;
+  left: 278px;
+  top: 951px;
+
+}
+
+.contvse{
+  height: 100%;
+  width: 193px;
+  display: flex;
+  justify-content: space-around;
+    
+}
+
+.premblack{
+  height: 70%;
+  background-color: gray;
+  width: 100%;
+  justify-content: space-around;
+}
+
+@media (max-width: 428px){
+.header{
+    width: 688px;
+    height: 46px;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    justify-content: space-around;
+    align-items: center;
+    position: absolute;
+  }
+  
+.
